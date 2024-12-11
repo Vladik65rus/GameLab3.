@@ -1,4 +1,4 @@
-# GamesLab3.
+# GamesLab33
 
 ## Описание
 Игра в жанре автошахматы с поддержкой сохранения/загрузки и взаимодействием двух игроков.
@@ -12,4 +12,4 @@
 ## Установка
 1. Клонировать репозиторий:
    ```bash
-   git clone https://github.com/Vladik65rus/GameLab3..git)
+   git clone https://github.com/Vladik65rus/GameLab33..git)
